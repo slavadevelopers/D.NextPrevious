@@ -10,4 +10,4 @@
 ## Примеры
 |входные данные|выходные данные|
 |------|------|
-|179|The next number for the number 179 is 180!<br /> The previous number for the number 179 is 178!|
+|179|The next number for the number 179 is 180! \n The previous number for the number 179 is 178!|
